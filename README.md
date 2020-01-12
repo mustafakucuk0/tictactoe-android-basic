@@ -2,4 +2,4 @@
 
 Basic Android projects #1
 
-![insideapp](https://prnt.sc/qmpr7g)
+![](https://prnt.sc/qmpr7g)
